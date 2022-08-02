@@ -1,0 +1,5 @@
+total 12K
+drwxrwxr-x  3 juan juan 4,0K ago  1 19:06 .
+drwxr-xr-x 72 juan juan 4,0K ago  1 19:00 ..
+drwxrwxr-x  7 juan juan 4,0K ago  1 19:01 .git
+-rw-rw-r--  1 juan juan    0 ago  1 19:06 myfile.txt
